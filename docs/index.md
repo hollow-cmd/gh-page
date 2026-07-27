@@ -1,7 +1,7 @@
 ---
 title: test
-layout: base
 ---
+<header>links:</header>
 
 # test page
 
