@@ -12,3 +12,6 @@ this is a test
 *this is an edit*
 
 <u>test</u>
+
+term
+: definition
